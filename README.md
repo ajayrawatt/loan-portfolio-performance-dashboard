@@ -285,7 +285,7 @@ Aspiring **Data Analyst** passionate about Business Intelligence, Financial Anal
 📬 **Let's Connect**
 
 - GitHub: https://github.com/ajayrawatt
-- LinkedIn: *(Add your LinkedIn profile here)*
+- LinkedIn: https://www.linkedin.com/in/ajay-rawat-541898352/
 
 ---
 
