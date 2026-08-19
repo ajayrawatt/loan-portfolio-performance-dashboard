@@ -246,21 +246,8 @@ loan-portfolio-performance-dashboard
 │   └── Customer Insights.png
 │
 └── README.md
+
 ```
-
----
-
-# 🔮 Future Enhancements
-
-- Predictive Loan Default Analysis
-- Customer Risk Scoring
-- Real-Time Dashboard Refresh
-- Geographic Analysis using Maps
-- Drill-through Reports
-- Forecasting & Trend Analysis
-- Mobile Optimised Dashboard
-
----
 
 # 🚀 Getting Started
 
