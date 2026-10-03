@@ -267,12 +267,8 @@ git clone https://github.com/ajayrawatt/loan-portfolio-performance-dashboard.git
 
 ### **Ajay Rawat**
 
-Aspiring **Data Analyst** passionate about Business Intelligence, Financial Analytics, and transforming raw data into actionable business insights through interactive dashboards.
+Aspiring **Wealth & Retail Banking Professional** passionate about Business Intelligence, Financial Analytics, and transforming raw data into actionable business insights through interactive dashboards.
 
-📬 **Let's Connect**
-
-- GitHub: https://github.com/ajayrawatt
-- LinkedIn: https://www.linkedin.com/in/ajay-rawat-541898352/
 
 ---
 
